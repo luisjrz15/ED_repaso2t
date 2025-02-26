@@ -1,5 +1,9 @@
 package biblioteca;
 
+/**
+ * Clase que representa
+ */
+
 public class Libro {
 
     // TODO: Documentar estos atributos
